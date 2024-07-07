@@ -1,10 +1,12 @@
 # ToDo-List
 A to-do list application in Python is a tool that helps users keep track of tasks they need to complete.
-
+<br>
 Usage:
 
 Users can add tasks they need to do.
+
 They can mark tasks as complete when finished.
+
 Tasks can be edited or deleted if needed.
 
 Functions:
